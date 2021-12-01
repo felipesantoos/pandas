@@ -59,3 +59,17 @@ None
 
 - Valores vazios (ou nulos) podem ser ruins ao analisar dados.
 - Para resolver esse problema realizamos o processo de `limpeza dos dados`.
+
+# Artigo 09
+- A limpeza de dados é a correção de dados defeituosos no conjunto de dados.
+- Dados defeituosos podem ser:
+    - Células vazias.
+    - Dados em formatos errados.
+    - Dados errados.
+    - Redundâncias.
+
+# Artigo 10
+- Células vazias pode gerar resultados errados quando inclusos na análise.
+- Geralmente os conjuntos de dados usados são muito grandes.
+- Portanto, remover algumas linhas não causa um grande impacto negativo.
+- Há a possibilidade de remover as linhas ou de substituir as células defeituosas.
