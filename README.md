@@ -23,3 +23,16 @@ Repositório de códigos e anotações sobre o módulo Pandas da linguagem Pytho
 - Podemos nomear as labels com o argumento `index`.
 - As chaves dos dicionários se tornam labels.
 - DataFrames são tabelas (multidimensionais).
+
+# Artigo 05
+- Um `DataFrame` é uma estrutura de dados bidimensional.
+- É como um matriz bidimensional ou uma tabela com linhas e colunas.
+- É possível carregar arquivos externos dentro de um DataFrame.
+
+# Artigo 06
+- Um CSV é um arquivo cujos valores (colunas) são separados por vírgulas.
+- CSV significa comma-separated-values.
+
+# Artigo 07
+- JSON é um arquivo com texto puro com formato de objeto.
+- JSONs tem o mesmo formato de um dicionário em Python.
