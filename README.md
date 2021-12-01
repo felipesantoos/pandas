@@ -36,3 +36,26 @@ Repositório de códigos e anotações sobre o módulo Pandas da linguagem Pytho
 # Artigo 07
 - JSON é um arquivo com texto puro com formato de objeto.
 - JSONs tem o mesmo formato de um dicionário em Python.
+
+# Artigo 08
+```shell
+RangeIndex: 169 entries, 0 to 168
+Data columns (total 4 columns):
+ #   Column    Non-Null Count  Dtype
+---  ------    --------------  -----
+ 0   Duration  169 non-null    int64
+ 1   Pulse     169 non-null    int64
+ 2   Maxpulse  169 non-null    int64   
+ 3   Calories  164 non-null    float64
+dtypes: float64(1), int64(3)
+memory usage: 5.4 KB
+None
+```
+- Informações:
+    - 168 linhas.
+    - 4 colunas.
+    - Nome das colunas, quantidade de valores não nulos em cada coluna e tipos dos dados de cada coluna.
+    - 5 valores nulos.
+
+- Valores vazios (ou nulos) podem ser ruins ao analisar dados.
+- Para resolver esse problema realizamos o processo de `limpeza dos dados`.
